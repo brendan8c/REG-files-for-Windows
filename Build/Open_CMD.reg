@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+; This will add an icon (cmd.exe) to the explorer context menu. Visible when clicking on an empty space. 
+; Это добавит иконку (cmd.exe) в контекстное меню проводника. Видна при клике на пустом месте.
+[HKEY_CLASSES_ROOT\directory\background\shell\Open_CMD]
+@="Root CMD"
+"Icon"="cmd.exe"
+[HKEY_CLASSES_ROOT\directory\background\shell\Open_CMD\command]
+@="cmd.exe /s /k pushd \"%V\""
