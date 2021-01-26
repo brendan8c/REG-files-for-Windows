@@ -1,5 +1,3 @@
-# REG-files-for-Windows
-
 # About
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/brendan8c)<br> 
 
@@ -17,18 +15,18 @@ Double click on the desired file agreeing to everything.<br>
 
 <table>
     <tr>
-        <td>`Open_CMD`</td>
-        <td>— *This pushes the icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Just right-click anywhere free space in any folder.*</td>
+        <td>Open_CMD</td>
+        <td> This pushes the icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Just right-click anywhere free space in any folder.</td>
     </tr>
     <tr>
-        <td>`Open_CMD`</td>
-        <td>*Это давит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Просто щёлкните правой кнопкой мыши в любом свободном месте в любой папке.*</td>
+        <td>Open_CMD</td>
+        <td>Это давит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Просто щёлкните правой кнопкой мыши в любом свободном месте в любой папке.</td>
     </tr>
 </table>
 
-<!-- `Open_CMD` — *This pushes the icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Just right-click anywhere free space in any folder.<br>*
-`Open_CMD` — *Это давит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Просто щёлкните правой кнопкой мыши в любом свободном месте в любой папке.<br>* -->
 
 ## Note
-I left more detailed instructions in some .reg files.<br>
-Any .reg file can be opened in a text editor.<br>
+I left more detailed instructions in some `.reg` files.<br>
+Any `.reg` file can be opened in a text editor.<br>
+Я оставил более подробные инструкции в некоторых `.reg` файлах.<br>
+Любой `.reg` файл можно открыть в текстовом редакторе.<br>
