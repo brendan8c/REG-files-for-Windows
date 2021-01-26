@@ -4,14 +4,17 @@
 REG is a files for Windows Registry.<img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/gear_2699-fe0f.png width="50px" style="margin-top:-50px">
 
 These are various additions to the Windows Registry.<br>
+*Это различные дополнения к реестру Windows.*<br>
 
 # Installation
 Open your console and clone this repository<br>
+*Откройте свою консоль и клонируйте этот репозиторий*<br>
 `git clone https://github.com/brendan8c/FFmpeg_bat.git`
 
 # How to use:
 ## REG files<br>
 Double click on the desired file agreeing to everything.<br>
+*Дважды щелкните нужный файл, соглашаясь со всем.*<br>
 
 <table>
     <tr>
@@ -28,5 +31,5 @@ Double click on the desired file agreeing to everything.<br>
 ## Note
 I left more detailed instructions in some `.reg` files.<br>
 Any `.reg` file can be opened in a text editor.<br>
-Я оставил более подробные инструкции в некоторых `.reg` файлах.<br>
-Любой `.reg` файл можно открыть в текстовом редакторе.<br>
+*Я оставил более подробные инструкции в некоторых `.reg` файлах.*<br>
+*Любой `.reg` файл можно открыть в текстовом редакторе.*<br>
