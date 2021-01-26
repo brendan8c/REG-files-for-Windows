@@ -19,17 +19,25 @@ Double click on the desired file agreeing to everything.<br>
 <table>
     <tr>
         <td>Open_CMD</td>
-        <td> This pushes the icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Just right-click anywhere free space in any folder.</td>
+        <td>This will add an icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Right-click anywhere free space in the folder.</td>
     </tr>
     <tr>
         <td>Open_CMD</td>
-        <td>Это давит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Просто щёлкните правой кнопкой мыши в любом свободном месте в любой папке.</td>
+        <td>Это добавит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Щёлкните правой кнопкой мыши в любом свободном месте в папке.</td>
     </tr>
 </table>
 
 
-## Note
-I left more detailed instructions in some `.reg` files.<br>
-Any `.reg` file can be opened in a text editor.<br>
-*Я оставил более подробные инструкции в некоторых `.reg` файлах.*<br>
-*Любой `.reg` файл можно открыть в текстовом редакторе.*<br>
+
+<details>
+  <summary>Note :mag:</summary>
+<br />
+
+- I left more detailed instructions in some `.reg` files.<br>
+- Any `.reg` file can be opened in a text editor.<br>
+- Just drag it to notepad.<br>
+- *Я оставил более подробные инструкции в некоторых `.reg` файлах.*<br>
+- *Любой `.reg` файл можно открыть в текстовом редакторе.*<br>
+- *Просто перетащите его в блокнот.*<br>
+
+</details>
