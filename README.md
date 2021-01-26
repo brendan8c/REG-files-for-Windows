@@ -12,7 +12,6 @@ Open your console and clone this repository<br>
 `git clone https://github.com/brendan8c/FFmpeg_bat.git`
 
 # How to use:
-## REG files<br>
 Double click on the desired file agreeing to everything.<br>
 *Дважды щелкните нужный файл, соглашаясь со всем.*<br>
 
