@@ -1,3 +1,5 @@
+<img src=https://raw.githubusercontent.com/Brendan8c/REG-files-for-Windows/master/img/photo.png width="100%">
+
 # About
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/brendan8c)<br> 
 
