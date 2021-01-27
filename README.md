@@ -2,7 +2,7 @@
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/brendan8c)<br> 
 
 <!-- REG is a files for Windows Registry.<img src=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/271/gear_2699-fe0f.png width="50px" style="margin-top:-50px"> -->
-REG is a files for Windows Registry.<img src=https://raw.githubusercontent.com/Brendan8c/REG-files-for-Windows/master/img/cmd.svg" width="50px" style="margin-top:-50px">
+REG is a files for Windows Registry.<img src=https://raw.githubusercontent.com/Brendan8c/REG-files-for-Windows/master/img/cmd.svg width="50px" style="margin-top:-50px">
 
 These are various additions to the Windows Registry.<br>
 *Это различные дополнения к реестру Windows.*<br>
