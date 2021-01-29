@@ -20,6 +20,22 @@ Double click on the desired file agreeing to everything.<br>
 
 <table>
     <tr>
+        <td>Context Menu Editor.bat</td>
+        <td>Able to create a registry file Menu.reg to add any program to the Windows context menu.</td>
+    </tr>
+    <tr>
+        <td>Context Menu Editor.bat</td>
+        <td>Способен создать файл реестра Menu.reg для занесения любой программы в контекстное меню Windows.</td>
+    </tr>
+    <tr>
+        <td>Context Menu Remover.bat</td>
+        <td>Allows you to easily delete previously created Windows context menu entries.</td>
+    </tr>
+    <tr>
+        <td>Context Menu Remover.bat</td>
+        <td>Позволяет легко удалить ранее созданные записи контекстного меню Windows.</td>
+    </tr>
+    <tr>
         <td>Open_CMD</td>
         <td>This will add an icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Right-click anywhere free space in the folder.</td>
     </tr>
