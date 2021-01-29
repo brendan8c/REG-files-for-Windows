@@ -21,7 +21,7 @@ Double click on the desired file agreeing to everything.<br>
 
 <table>
     <tr>
-        <td colspan="2" valign="middle">:us: ENGLISH</td>
+        <td colspan="2" align="center">:us: ENGLISH</td>
     </tr>
     <tr>
         <td>Context Menu Editor.bat</td>
@@ -36,7 +36,7 @@ Double click on the desired file agreeing to everything.<br>
         <td>This will add an icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Right-click anywhere free space in the folder.</td>
     </tr>
     <tr>
-        <td colspan="2" valign="middle">:ru: RUSSIAN</td>
+        <td colspan="2" align="center">:ru: RUSSIAN</td>
     </tr>
     <tr>
         <td>Context Menu Editor.bat</td>
