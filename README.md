@@ -24,30 +24,30 @@ Double click on the desired file agreeing to everything.<br>
         <td colspan="2" align="center">:us: ENGLISH</td>
     </tr>
     <tr>
-        <td>Context Menu Editor.bat</td>
+        <td>Context Menu Editor :floppy_disk:</td>
         <td>Able to create a registry file Menu.reg to add any program to the Windows context menu.</td>
     </tr>
     <tr>
-        <td>Context Menu Remover.bat</td>
+        <td>Context Menu Remover :floppy_disk:</td>
         <td>Allows you to easily delete previously created Windows context menu entries.</td>
     </tr>
     <tr>
-        <td>Open_CMD</td>
+        <td>Open_CMD :gem:</td>
         <td>This will add an icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Right-click anywhere free space in the folder.</td>
     </tr>
     <tr>
         <td colspan="2" align="center">:ru: RUSSIAN</td>
     </tr>
     <tr>
-        <td>Context Menu Editor.bat</td>
+        <td>Context Menu Editor :floppy_disk:</td>
         <td>Способен создать файл реестра Menu.reg для занесения любой программы в контекстное меню Windows.</td>
     </tr>
     <tr>
-        <td>Context Menu Remover.bat</td>
+        <td>Context Menu Remover :floppy_disk:</td>
         <td>Позволяет легко удалить ранее созданные записи контекстного меню Windows.</td>
     </tr>
     <tr>
-        <td>Open_CMD</td>
+        <td>Open_CMD :gem:</td>
         <td>Это добавит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Щёлкните правой кнопкой мыши в любом свободном месте в папке.</td>
     </tr>
 </table>
