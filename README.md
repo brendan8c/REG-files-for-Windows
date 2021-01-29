@@ -20,11 +20,11 @@ Double click on the desired file agreeing to everything.<br>
 
 <table>
     <tr>
-        <td>Context Menu Editor.bat</td>
+        <td>:us: Context Menu Editor.bat</td>
         <td>Able to create a registry file Menu.reg to add any program to the Windows context menu.</td>
     </tr>
     <tr>
-        <td>Context Menu Editor.bat</td>
+        <td>:ru: Context Menu Editor.bat</td>
         <td>Способен создать файл реестра Menu.reg для занесения любой программы в контекстное меню Windows.</td>
     </tr>
     <tr>
