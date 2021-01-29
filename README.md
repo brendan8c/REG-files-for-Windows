@@ -18,7 +18,8 @@ Open your console and clone this repository<br>
 Double click on the desired file agreeing to everything.<br>
 *Дважды щелкните нужный файл, соглашаясь со всем.*<br>
 
-<table>
+<!-- <table>
+<tr>
     <tr>
         <td>:us: Context Menu Editor.bat</td>
         <td>Able to create a registry file Menu.reg to add any program to the Windows context menu.</td>
@@ -31,6 +32,38 @@ Double click on the desired file agreeing to everything.<br>
         <td>Context Menu Remover.bat</td>
         <td>Allows you to easily delete previously created Windows context menu entries.</td>
     </tr>
+    </tr>
+    <tr>
+        <td>Context Menu Remover.bat</td>
+        <td>Позволяет легко удалить ранее созданные записи контекстного меню Windows.</td>
+    </tr>
+    <tr>
+        <td>Open_CMD</td>
+        <td>This will add an icon (CMD) to the explorer context menu. Runs CMD with administrator rights! Right-click anywhere free space in the folder.</td>
+    </tr>
+    <tr>
+        <td>Open_CMD</td>
+        <td>Это добавит иконку (CMD) в контекстное меню проводника. Запускает CMD с правами администратора! Щёлкните правой кнопкой мыши в любом свободном месте в папке.</td>
+    </tr>
+</table> -->
+
+<table>
+    <tr>
+        <td>:ru: RUS</td>
+        <tr>
+            <td>:us: Context Menu Editor.bat</td>
+            <td>Able to create a registry file Menu.reg to add any program to the Windows context menu.</td>
+        </tr>
+        <tr>
+            <td>Context Menu Editor.bat</td>
+            <td>Способен создать файл реестра Menu.reg для занесения любой программы в контекстное меню Windows.</td>
+        </tr>
+        <tr>
+            <td>Context Menu Remover.bat</td>
+            <td>Allows you to easily delete previously created Windows context menu entries.</td>
+        </tr>
+    </tr>
+    <td>:ru: RUS</td>
     <tr>
         <td>Context Menu Remover.bat</td>
         <td>Позволяет легко удалить ранее созданные записи контекстного меню Windows.</td>
