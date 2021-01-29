@@ -54,8 +54,8 @@ Double click on the desired file agreeing to everything.<br>
 - I left more detailed instructions in some `.reg` files.<br>
 - Any `.reg` file can be opened in a text editor.<br>
 - Just drag it to notepad.<br>
-- Bat files are in chcp 866 extension,<br>
-- change the encoding of your code editor to view Bat files correctly.<br>
+- `Bat` files are encoded in `(chcp 866)`,<br>
+- for correct viewing of `Bat` files, change the encoding of your code editor.<br>
 ------------------------------------------------------------------------
 - *Я оставил более подробные инструкции в некоторых `.reg` файлах.*<br>
 - *Любой `.reg` файл можно открыть в текстовом редакторе.*<br>
