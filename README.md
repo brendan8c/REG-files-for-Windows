@@ -56,10 +56,10 @@ Double click on the desired file agreeing to everything.<br>
 - Just drag it to notepad.<br>
 - Bat files are in chcp 866 extension,<br>
 - change the encoding of your code editor to view Bat files correctly.<br>
-
+------------------------------------------------------------------------
 - *Я оставил более подробные инструкции в некоторых `.reg` файлах.*<br>
 - *Любой `.reg` файл можно открыть в текстовом редакторе.*<br>
 - *Просто перетащите его в блокнот.*<br>
-- *Bat файлы находятся в расширении chcp 866,*<br>
+- *Bat файлы находятся в кодировке (chcp 866),*<br>
 - *для корректного просмотра Bat файлов измените кодировку вашего редактора кода.*<br>
 </details>
