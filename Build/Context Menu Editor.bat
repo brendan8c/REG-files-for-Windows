@@ -128,7 +128,9 @@ echo. >> Menu.reg
 echo.[HKEY_CLASSES_ROOT\Directory\ContextMenus\%MUIVerb%\shell\%MUIVerb%_admin] >> Menu.reg
 echo."MUIVerb"="%MUIVerb% Elevated" >> Menu.reg
 echo."Icon"="%Icon%" >> Menu.reg
-echo.@="powershell.exe -command Start-Process %exec% -Verb RunAs" >> Menu.reg
+@REM echo.@="powershell.exe -command Start-Process %exec% -Verb RunAs" >> Menu.reg
+@REM echo.@="nircmd elevate %exec% \"%1\"" >> Menu.reg
+echo.@="mshta vbscript:createobject(\"shell.application\").shellexecute(\"%exec%\",\"\",\"\",\"runas\",1)(window.close)" >> Menu.reg
 echo."HasLUAShield"="" >> Menu.reg
 echo. >> Menu.reg
 echo.[HKEY_CLASSES_ROOT\Directory\ContextMenus\%MUIVerb%\shell\%MUIVerb%] >> Menu.reg
@@ -139,7 +141,9 @@ echo. >> Menu.reg
 echo.[HKEY_CLASSES_ROOT\Directory\ContextMenus\%MUIVerb%\shell\%MUIVerb%_admin\command] >> Menu.reg
 echo."MUIVerb"="%MUIVerb% Elevated" >> Menu.reg
 echo."Icon"="%Icon%" >> Menu.reg
-echo.@="powershell.exe -command Start-Process %exec% -Verb RunAs" >> Menu.reg
+@REM echo.@="powershell.exe -command Start-Process %exec% -Verb RunAs" >> Menu.reg
+@REM echo.@="nircmd elevate %exec% \"%1\"" >> Menu.reg
+echo.@="mshta vbscript:createobject(\"shell.application\").shellexecute(\"%exec%\",\"\",\"\",\"runas\",1)(window.close)" >> Menu.reg
 echo."HasLUAShield"="" >> Menu.reg
 echo. >> Menu.reg
 echo.[HKEY_CLASSES_ROOT\Directory\ContextMenus\%MUIVerb%\shell\%MUIVerb%\command] >> Menu.reg
